@@ -1,0 +1,557 @@
+nico record - 1:02:43
+
+start, endure cutscene
+talk to elder, get sent to Scrap
+talk to Mei-Ling only
+go see Caballero, endure scene
+go back to Pub
+talk to Gen only, make sure he discusses the strategy
+rescue Mei-ling, pick up the 400 credits (you don't need to talk to her while she stands there, after she says "Cabellero has the ring")
+go to the left place for the extra 400 credits
+
+-- dodge section
+run up to Cabellero and dodge the enemies, snaking the way up from the bottom to the middle
+
+stop right before him for equipment management
+--
+
+--equipment management
+unequip Mei-ling
+	aguni-ssp
+	leather boots
+	leather gloves
+	fiber vest
+
+unequip T260
+    repair kit
+
+equip T260
+    aguni-ssp
+    backpack
+
+equip Gen
+    magic stone
+    fiber vest
+    leather boots
+    leather glove
+--
+
+swap positions of Gen and Mei-Ling
+
+
+--battle Cabellero
+1st round
+    tail
+    aguni
+    magic stone
+    sunray
+(front three enemies should be dead)
+
+2nd round
+    double slash
+    junk bazooka
+(should be enough to end the fight)
+    tail
+    magic stone
+--
+
+go to the junk shop
+--
+with BaseItemRank 0 get:
+     water cannon
+
+(should have 1250 credits)
+manipulate the sale of the repair kit to manipulate BaseItemRank
+(at 1250, BIR should be ~4)
+with BaseItemRank
+get stuff
+
+**-- redo this section, slim it down to necessities
+
+(eventually sell 6 repair kits for 1370 which should keep you in BIR 5)
+
+lasercarbine
+soniccannon
+lasercarbine
+lightning cannon
+lightnin cannon
+
+sniper rifle
+ceramic sword
+electro armor
+jump suit
+jump suit
+electro armor
+electro armor
+thunderbolt
+jump suit
+warlord armor
+warlord armor
+jump suit
+jump suit
+(sell 7 repair kits for 1510)
+cyber suit
+cyber suit
+warlord armor
+cyber suit
+cyber suit
+jump suit
+jump suit
+cyber suit
+warlord armor
+**--
+
+goto koorong, talk to mei-ling
+buy 3 mirror glass helmets
+put riki in last position
+put T260 in team 2
+--equip T260
+LightVulcan
+Thunderbolt
+CyberSuit
+JumpSuit
+MirrorGlassx3
+
+stats:
+        hp - 685
+        str = 38
+        qui = 46
+        int = 80
+        will = 90
+        psy = 5
+        vit = 33
+        cha = 5
+        defense = 95
+--
+--equip Mei-ling
+SniperRifle
+SilkShirt
+Junk
+ElectroArmor
+
+stats:
+        hp = 70
+        str = 3
+        qui = 8
+        int = 13
+        wil = 8
+        psy = 17
+        vit = 7
+        cha = 10
+        def = 30
+--
+--equip Gen
+Ceramic Sword
+Budowear
+LeatherBoots
+LeatherGloves
+ElectroArmor
+
+stats:
+        hp = 127
+        str = 20
+        qui = 17
+        int = 8
+        wil = 10
+        psy = 12
+        vit = 18
+        cha = 6
+        def = 39
+--
+
+get inside tanzer
+pwn skele with T260
+after dialog ends go talk to Fei-on in the camp
+
+learn the path to nomad
+after talking to nomad, immediately run forward and put T260 back into the team 1
+dodge more enemies and fight platypus
+
+--battle platypus
+round 1
+      thunderbolt
+      sniper rifle
+      double slash
+             on razorback
+      riki defend
+      (gen learns smash)
+round 2
+      light vulcan
+      sniper shot
+      hard slash
+           on platypus
+      riki defend
+      (gen learns heaven/hell)
+round 3
+      thunderbolt
+      hard slash
+      sniper shot
+continue to finish off platy
+riki absorb razorback
+--
+
+--battle tanzer heart
+round 1
+      thunderbolt
+      fist -- (level 2 combo thunderbolt + fist)
+      sniper rifle
+      heaven/hell
+      riki defend
+round 2
+     (mei-ling is dead)
+     thunderbolt
+     fist
+     heaven/hell (level 3 combo)
+     riki defend
+--
+
+wait through the cutscene
+talk to mei-ling twice
+then run towards the ship
+scrap -> koorong -> shrike
+get engineer car
+goto sei's tomb
+put t260 in team 2 with engi car
+get murakumo, pwn noobs
+get mizukagami
+get magatama
+
+goto yorkland
+
+--rearrange team
+team 1:
+     T260 (1)
+     engineer car (2)
+     riki (5)
+team 2:
+     mei-ling(2)
+     gen(3)
+team 3:
+     fei-on
+--
+--equip T260
+        light vulcan
+        thunderbolt
+        warlord armor(*)
+        warlord armor(*)
+        lightning cannon
+        *empty*
+        mirror glass
+stats:
+        hp = 650
+        str = 45
+        qui = 13
+        int = 30
+        wil = 73
+        psy = 5
+        vit = 88
+        cha = 5
+        def = 82
+--
+--equip Engi car
+        warlord armor
+        warlord armor
+        magatama
+        mirror glass
+        mirror glass
+--
+--equip Riki
+        ring/guard
+        ring/thief
+stats:
+        hp = 210
+        str = 25
+        qui = 22
+        int = 14
+        wil = 24
+        psy = 11
+        vit = 33
+        cha = 31
+        def = 15
+abilities:
+        put acid breath in permanent slot
+--
+get yorkland ring, fight boss
+--battle molasite
+round 1:
+      thunderbolt
+      engi - defend
+      ring/thief
+round 2:
+      thunderbolt
+      defend - all
+round 3:
+      defend - all
+round 4:
+      defend - all
+round 5:
+      defend - all
+round 6:
+      defend - all
+round 7:
+      thunderbolt
+      crosshair
+      riki has mess
+round 8:
+      thunderbolt
+      crosshair
+      riki defend
+
+dont absorb molasite
+--
+
+get 2.5k from the old man
+koorong -> talk to mei-ling -> baccarat
+go to the hotel room
+
+do pro mouse maneuver from the video to catch it easily
+like, infinity side figure 8
+
+koorong -> luminous
+get gift for light?
+
+goto manhattan
+ask about ring in the shopping mall
+buy one harmonium earring
+
+goto koorong -> owmi
+get ring in mansion
+
+--fight devilsquid
+put riki in back
+round 1:
+      thunderbolt
+      crosshair
+      riki defend
+absorb devilsquid
+--
+
+run straight out of the dungeon, dont pick up anything
+goto koorong, talk to mei-ling
+goto despair
+say you don't trust talking to annie
+
+learn fast path to warden's place
+koorong -> devin
+ask about the rune and get the stones
+talk to fortune teller to do the rune skip
+ask about space magic
+pick up kylin after doing the space dungeon
+
+--rearrange teams
+put kylin, engi car, T260 in team 2
+--
+
+--equip engi car
+        murakumo
+        nakajimaboard2
+        magatama
+        mirror glass
+        mirror glass
+--
+
+go back from paradise to koorong sewers
+from koorong goto mosperiburg
+talk to virgil
+
+
+do ring rooms:
+(2)\___/(7)
+(1)/ | \(8)
+     |
+     |
+(5)\___/ (4)
+(6)/   \ (3)
+
+
+--ring room 3 battle big slimes
+use team 2, put kylin in defensive mode
+all rounds:
+      thunder bolt
+      sacred song
+      sniper rifle
+      reverse gravity
+      heaven/hell
+dont absorb big slime
+--
+
+after 4 ring rooms, go back to koorong
+goto shrike
+goto nakajima
+buy a bolt thrower
+goto sei's tomb and pick up sei
+goto koorong -> mosperiburg
+
+--rearrange team
+team 1:
+     sei(1)
+     kylin(3)
+     riki(5)
+--
+
+--equip Fei-on
+        water cannon
+        budowear
+        leather gloves
+        leather boots
+--
+--equip Sei
+        Ring/healer
+        harmonium earring
+        steel amulet
+--
+--equip Kylin
+        ring/fighter
+        ring/hero
+        ring/schemer
+--
+--equip riki
+        ring/guardian
+        ring/thief
+        ring/merchant
+        ring/hermit
+--
+--equip Engineercar
+        warlord armor
+        warlord armor
+        lightning cannon
+        mirror glass
+        mirror glass
+--
+--equip Mei-ling
+        bolt thrower
+        junk
+        silk shirt
+        junk
+        electro armor
+--
+--abilities Sei
+            swap deathsynthesis with kusanagi
+--
+
+--battle ring room 5
+use team 1
+put sei and riki on defense
+round 1:
+      sei and riki defend
+      reverse gravity
+kylin absorb spear valkryie
+
+
+battle 2
+team 1
+put riki on defense
+round 1:
+      sacred song
+      reverse gravity
+      defend riki
+absorb livingmusket on riki
+--
+
+--rearrange team
+team 1:
+     t260
+     engineer car
+     fei-on
+     mei-ling
+     riki
+team 2:
+     gen
+team 3:
+     sei(1)
+     kylin(3)
+--
+
+ring room 7, learn path
+ring room 8
+--battle razorback
+use team3
+round 1:
+      punch
+      sacred song
+sei absorb razorback
+--
+
+virgil fight
+--battle virgil
+use team 1
+round 1:
+      thunderbolt
+      lightning cannon
+      water cannon
+      bolt thrower
+      tail (should be a level 5 combo)
+round 2:
+      all defend
+      riki use ring/thief to hide
+round 3:
+      thunderbolt
+      lightning cannon
+      water cannon
+      bolt thrower
+      acid breath (should be a level 5 combo)
+--
+
+**margmel**
+--rearrange teams
+team 1:
+     t260
+     engineer car
+     sei
+     kylin
+     riki
+team 2:
+     gen
+team 3:
+     fei-on
+     mei-ling
+--
+unequip bolt thrower from mei-ling
+unequip water cannon from fei-on
+swap ring/thief for junk on riki
+
+--equip kylin
+        ring/lord
+        ring/fighter
+        ring/hero
+        ring/schemer
+--
+
+put ring/thief on Sei
+
+--equip t260
+        light vulcan
+        thunderbolt
+        warlord armor
+        warlord armor
+        water cannon
+        bolt thrower
+        mirror glass
+--
+
+see elder, do cutscene
+
+--battle Master Ring
+use team 1
+round 1:
+      bolt thrower
+      crosshair
+      kusanagi
+      ring/fighter
+      bolt breath
+           all on master ring
+round 2:
+      bolt thrower
+      crosshair
+      kusanagi
+      silf
+      bolt breath
+round 3:
+      bolt thrower
+      crosshair
+      kusanagi
+      silf
+      bolt breath
+--
+
+GG
