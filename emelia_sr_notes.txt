@@ -1,0 +1,50 @@
+nico record - 35:57
+
+kyo shop -
+6 wing amulets - 900
+3 flower amulets - 450
+2 defend wears - 500
+
+--equip Silence(for devil squid)
+        Mizukagami
+        mystic armor
+       3 wing amulets
+--
+
+--equip Zozma
+        3 cures
+        mystic armor
+        3 wing amulets
+--
+
+--equip White Rose
+        buckler
+        backpack
+        mystic mail
+        rubber shoes
+        armor glove
+        defend wear
+--
+
+--equip Emelia
+        cure
+        4x flower amulets
+--
+
+--party position
+        emelia
+        zozma
+        silence
+        white rose
+        mesarthim
+--
+
+--equip mesarthim
+        mizukagami
+        cure
+        cure
+        blue elf
+        defendwear
+        angel broach
+--
+        
